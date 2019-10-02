@@ -229,7 +229,7 @@ goto :EOF
 :syntax
 :: syntax [clear(1/0)]
 if "%1" EQU "1" cls
-echo Syntaxis: pingg [/w] [/t] [/s] [/n] [/v] [/m] [/syntax]
+echo Syntaxis: ping [/w] [/t] [/s] [/n] [/v] [/m] [/syntax]
 echo.
 echo Options:
 echo 	/w Bit			Show window.
