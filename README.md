@@ -7,11 +7,12 @@ Ping like a pro in windows using this simple batch script.
 - Easy to use prompt
 - Checking target online status before starting
 - Saving and reusing configurations
+- Realtime status updates
 - CLI interface
 
 ## Usage
 ### Prompt
-Run the batch directly or by cli to use the prompt.
+Run the script directly or by cli to use the prompt.
 ````
 start ping.bat
 ````
